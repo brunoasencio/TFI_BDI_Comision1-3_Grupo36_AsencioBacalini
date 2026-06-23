@@ -4,8 +4,7 @@ Integrantes:
 - Bruno Asencio
 - Francisco Bacalini
 
-Motor utilizado:
-MySQL 8.0
+Link del video: https://youtu.be/zdhkSA7bXAA
 
 Orden de ejecución:
 
